@@ -16,6 +16,6 @@
 
 ## Demo Website
 
-👉🏼 [Weather App](https://6003c2d78a2bbaad8356321c--cocky-goldstine-168cea.netlify.app/)
+👉🏼 [Weather App](https://quizzical-elion-a5fbc4.netlify.app/)
 
 ![Demo](md-images/Demo.png)
